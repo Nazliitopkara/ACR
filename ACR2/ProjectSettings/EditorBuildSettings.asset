@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AGiris.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Duvar1.unity
+    guid: 3eea42bb38bb1eb429561c41d6d5ec97
+  - enabled: 1
+    path: Assets/Scenes/Duvar2.unity
+    guid: cacbb4601fc230d469c1e3026c5342f4
+  - enabled: 1
+    path: Assets/Scenes/Duvar3.unity
+    guid: c78e3e34959f8c944b710202126bc315
+  - enabled: 1
+    path: Assets/Scenes/Duvar4.unity
+    guid: 0065e7d821f63ab49a2b7f018fa2ae53
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar1Bulmaca.unity
+    guid: 661799be51005db43b2c26b963cb1d4d
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar2Bulmaca.unity
+    guid: 70a27332d30b7d948abb5bc15b8bfafa
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar2_1Bulmaca.unity
+    guid: fabe575723d5cc84fb4eaab37aa882c6
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar3Bulmaca.unity
+    guid: 1c7195986addfee469078f8271d92147
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar3_1Bulmaca.unity
+    guid: c5cbd3bfaf08d964aaf579520633054d
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar4Bulmaca.unity
+    guid: 462501f0948d7ef4ab5efb1e93602f8d
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar4_1Bulmaca.unity
+    guid: 3beb9e54ae015a14fbf1f58c3db75d7e
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar4_2Bulmaca.unity
+    guid: af217ed7aa3f3f441bfdcfcda2f415bf
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca/Duvar4Sifre.unity
+    guid: c75be31cec79193448045a4ee822e994
+  m_configObjects: {}
